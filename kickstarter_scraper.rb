@@ -21,7 +21,7 @@ def create_project_hash
     projects[project] = {}
   end
 
-  binding.pry
+  # return the projects hash
 end
 
 create_project_hash
