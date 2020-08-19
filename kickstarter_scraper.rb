@@ -23,7 +23,7 @@ def create_project_hash
   end
 
   # return the projects hash
-  projects
+  puts projects
 
 end
 
